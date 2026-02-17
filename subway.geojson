@@ -1,0 +1,215 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.225046216862784,
+          55.85946408878155
+        ]
+      },
+      "properties": {
+        "name": "Buchanan Street",
+        "source_note": "mean of 5 NaPTAN stops matched by name"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.252127748035945,
+          55.856713371846844
+        ]
+      },
+      "properties": {
+        "name": "St Enoch",
+        "source_note": "mean of 8 NaPTAN stops matched by name"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.25350262099781,
+          55.86697802065767
+        ]
+      },
+      "properties": {
+        "name": "Cowcaddens",
+        "source_note": "mean of 7 NaPTAN stops matched by name"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.269072798672403,
+          55.87187502782475
+        ]
+      },
+      "properties": {
+        "name": "St George's Cross",
+        "source_note": "mean of 1 NaPTAN stops matched by name"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.279352060136862,
+          55.87461493806972
+        ]
+      },
+      "properties": {
+        "name": "Kelvinbridge",
+        "source_note": "mean of 2 NaPTAN stops matched by name"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.293586490972938,
+          55.87526713082493
+        ]
+      },
+      "properties": {
+        "name": "Hillhead",
+        "source_note": "mean of 1 NaPTAN stops matched by name"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.3001759735739675,
+          55.87072224140523
+        ]
+      },
+      "properties": {
+        "name": "Kelvinhall",
+        "source_note": "mean of 1 NaPTAN stops matched by name"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.309172573243078,
+          55.87075014806787
+        ]
+      },
+      "properties": {
+        "name": "Partick",
+        "source_note": "mean of 7 NaPTAN stops matched by name"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.310198941143624,
+          55.86036400856192
+        ]
+      },
+      "properties": {
+        "name": "Govan",
+        "source_note": "mean of 64 NaPTAN stops matched by name"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.305390722838774,
+          55.8549622931601
+        ]
+      },
+      "properties": {
+        "name": "Ibrox",
+        "source_note": "mean of 3 NaPTAN stops matched by name"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.294432284747164,
+          55.85193767235314
+        ]
+      },
+      "properties": {
+        "name": "Cessnock",
+        "source_note": "mean of 1 NaPTAN stops matched by name"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2745365965671756,
+          55.85043395996038
+        ]
+      },
+      "properties": {
+        "name": "Kinning Park",
+        "source_note": "midpoint between Cessnock and Shields Road (no direct match in CSV)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.254640908387186,
+          55.848930247567615
+        ]
+      },
+      "properties": {
+        "name": "Shields Road",
+        "source_note": "mean of 8 NaPTAN stops matched by name"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.265705053871763,
+          55.85092436586795
+        ]
+      },
+      "properties": {
+        "name": "West Street",
+        "source_note": "mean of 3 NaPTAN stops matched by name"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.272311684540407,
+          55.84123677422827
+        ]
+      },
+      "properties": {
+        "name": "Bridge Street",
+        "source_note": "mean of 12 NaPTAN stops matched by name"
+      }
+    }
+  ]
+}
